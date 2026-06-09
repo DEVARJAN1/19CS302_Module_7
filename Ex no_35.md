@@ -10,7 +10,7 @@ To write a C program to create a file named "Hospital.txt" and display messages 
 roll numbers in to that file.
 4. Read the value using scanf.
 5. Ask the user to make an input.
-6. Print out the answer.
+6. Print out the answer. 
 7. End.
 ## Program:
 ```
